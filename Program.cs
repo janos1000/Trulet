@@ -8,8 +8,13 @@ namespace terulet
 {
     internal class Program
     {
+        static void test1()
+        {
+            Console.WriteLine("Hello world.");
+        }
         static void Main(string[] args)
         {
+
         }
     }
 }
